@@ -1,4 +1,4 @@
-package com.example.bibliotecaspring.entity;
+package comexamplebibliotecaspring.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
